@@ -1,0 +1,4 @@
+User-Agent: *
+Allow: /
+
+Sitemap: https://seoulcryptoinstitute.github.io/website-preview/sitemap.xml
